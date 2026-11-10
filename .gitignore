@@ -1,0 +1,8 @@
+# Downloaded source files: re-downloadable, and each script records the URLs
+raw/
+
+# Secrets and Python clutter
+.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

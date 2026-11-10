@@ -1,0 +1,238 @@
+name,type,gdp_usd,rank_among_countries,code
+United States,country,30769700000000,1,USA
+China,country,19498039388043,2,CHN
+Germany,country,5050922925047,3,DEU
+Japan,country,4435162999977,4,JPN
+California,state,4297449800000,5,06000
+United Kingdom,country,4002587541846,5,GBR
+India,country,3956067115772,6,IND
+France,country,3366315927447,7,FRA
+Texas,state,2932343600000,8,48000
+Russian Federation,country,2561310169359,8,RUS
+Italy,country,2551556954100,9,ITA
+New York,state,2465749300000,10,36000
+Canada,country,2319899772426,10,CAN
+Brazil,country,2279920092492,11,BRA
+Spain,country,1906453309986,12,ESP
+"Korea, Rep.",country,1872374961553,13,KOR
+Mexico,country,1832641364776,14,MEX
+Florida,state,1805620200000,15,12000
+Australia,country,1798518933689,15,AUS
+Turkiye,country,1597293229287,16,TUR
+Indonesia,country,1445642584164,17,IDN
+Netherlands,country,1332767651100,18,NLD
+Saudi Arabia,country,1276942933333,19,SAU
+Illinois,state,1240982700000,20,17000
+Pennsylvania,state,1056488200000,20,42000
+Switzerland,country,1043529899251,20,CHE
+Poland,country,1035491784197,21,POL
+Ohio,state,976871700000,22,39000
+Georgia,state,936086700000,22,13000
+North Carolina,state,895919200000,22,37000
+Washington,state,892254800000,22,53000
+New Jersey,state,887793100000,22,34000
+Massachusetts,state,813590500000,22,25000
+Virginia,state,807925000000,22,51000
+Michigan,state,733887100000,22,26000
+Belgium,country,725466462860,22,BEL
+Ireland,country,721701359046,23,IRL
+Argentina,country,683097891619,24,ARG
+Sweden,country,668998664082,25,SWE
+Israel,country,610777842874,26,ISR
+Singapore,country,603869516999,27,SGP
+Arizona,state,592103000000,28,04000
+Tennessee,state,586210100000,28,47000
+Austria,country,579470021095,28,AUT
+Thailand,country,577009981112,29,THA
+Colorado,state,574863900000,30,08000
+Maryland,state,567018500000,30,24000
+Indiana,state,542457600000,30,18000
+Norway,country,530755719439,30,NOR
+Minnesota,state,515116400000,31,27000
+Viet Nam,country,514697215165,31,VNM
+Philippines,country,487086123720,32,PHL
+Wisconsin,state,478781200000,33,55000
+Missouri,state,475377300000,33,29000
+Malaysia,country,472193128645,33,MYS
+Denmark,country,462526660468,34,DNK
+Colombia,country,457410034203,35,COL
+Bangladesh,country,456319229256,36,BGD
+Romania,country,428677977855,37,ROU
+"Hong Kong SAR, China",country,427310315922,38,HKG
+South Africa,country,427184325997,39,ZAF
+Pakistan,country,407307214476,40,PAK
+Czechia,country,391026962800,41,CZE
+Connecticut,state,382595500000,42,09000
+South Carolina,state,378383000000,42,45000
+"Egypt, Arab Rep.",country,365254630180,42,EGY
+"Iran, Islamic Rep.",country,362682115433,43,IRN
+Chile,country,357371159575,44,CHL
+Portugal,country,346639825142,45,PRT
+Oregon,state,343240200000,46,41000
+Louisiana,state,342321200000,46,22000
+Alabama,state,339035100000,46,01000
+Peru,country,334854659182,46,PER
+Utah,state,319178600000,47,49000
+Finland,country,317039368820,47,FIN
+Kentucky,state,313566300000,48,21000
+Kazakhstan,country,306239209650,48,KAZ
+Nigeria,country,290794361542,49,NGA
+Algeria,country,287031225988,50,DZA
+Nevada,state,281376700000,51,32000
+Greece,country,280635521324,51,GRC
+Oklahoma,state,274292200000,52,40000
+Iowa,state,271937200000,52,19000
+New Zealand,country,264057413740,52,NZL
+Iraq,country,254367293538,53,IRQ
+Hungary,country,246490213513,54,HUN
+Kansas,state,232106700000,55,20000
+Qatar,country,215559615385,55,QAT
+Ukraine,country,214233312784,56,UKR
+Nebraska,state,206616200000,57,31000
+Arkansas,state,195988200000,57,05000
+District of Columbia,state,192975400000,57,11000
+Morocco,country,182374250612,57,MAR
+Mississippi,state,162824800000,58,28000
+Kuwait,country,157209026926,58,KWT
+Slovak Republic,country,154530066507,59,SVK
+New Mexico,state,152120000000,60,35000
+Uzbekistan,country,147038081129,60,UZB
+Idaho,state,137401900000,61,16000
+Kenya,country,135941278879,61,KEN
+Bulgaria,country,130777235530,62,BGR
+Ecuador,country,130320560400,63,ECU
+Puerto Rico (US),country,129368484000,64,PRI
+New Hampshire,state,128278600000,65,33000
+Dominican Republic,country,127407463759,65,DOM
+Ethiopia,country,126358758448,66,ETH
+Guatemala,country,123306008821,67,GTM
+Hawaii,state,123163800000,68,15000
+Angola,country,122174889424,68,AGO
+Delaware,state,121940000000,69,10000
+Ghana,country,114209905279,69,GHA
+West Virginia,state,111302300000,70,54000
+Oman,country,109604780696,70,OMN
+Sri Lanka,country,108825231671,71,LKA
+Croatia,country,105060182186,72,HRV
+Costa Rica,country,102904921157,73,CRI
+Maine,state,101726200000,74,23000
+Luxembourg,country,101157829491,74,LUX
+Serbia,country,99953324473,75,SRB
+Cote d'Ivoire,country,99773555666,76,CIV
+"Venezuela, RB",country,99661244156,77,VEN
+Lithuania,country,95210150818,78,LTU
+Belarus,country,93397215864,79,BLR
+"Congo, Dem. Rep.",country,91030531317,80,COD
+Panama,country,90462600000,81,PAN
+Tanzania,country,90143496090,82,TZA
+Rhode Island,state,88240600000,83,44000
+Uruguay,country,85347696278,83,URY
+North Dakota,state,82349800000,84,38000
+South Dakota,state,82001900000,84,46000
+Myanmar,country,81665773810,84,MMR
+Montana,state,80945200000,85,30000
+Slovenia,country,79648204979,85,SVN
+Azerbaijan,country,75937647059,86,AZE
+Alaska,state,73634800000,87,02000
+Bolivia,country,64768947525,87,BOL
+Uganda,country,61985829288,88,UGA
+Jordan,country,61610052535,89,JOR
+Sudan,country,60162634574,90,SDN
+Cameroon,country,58933453924,91,CMR
+Tunisia,country,57502836548,92,TUN
+Wyoming,state,52491200000,93,56000
+"Macao SAR, China",country,52061007670,93,MAC
+Cambodia,country,51267065843,94,KHM
+Zimbabwe,country,51215643906,95,ZWE
+Turkmenistan,country,49828621356,96,TKM
+Vermont,state,49657500000,97,50000
+Paraguay,country,49278227554,97,PRY
+Bahrain,country,48965725532,98,BHR
+Latvia,country,48618869160,99,LVA
+Libya,country,48098909614,100,LBY
+Estonia,country,47030833799,101,EST
+Nepal,country,45489810283,102,NPL
+Cyprus,country,41225787247,103,CYP
+Honduras,country,39601409103,104,HND
+Iceland,country,38582528789,105,ISL
+Georgia,country,38143612855,106,GEO
+Senegal,country,37006536238,107,SEN
+El Salvador,country,36708110000,108,SLV
+Bosnia and Herzegovina,country,32599982936,109,BIH
+Papua New Guinea,country,32498658654,110,PNG
+Haiti,country,32077278409,111,HTI
+Albania,country,30540188271,112,ALB
+Mali,country,30069148581,113,MLI
+Armenia,country,29243452882,114,ARM
+Zambia,country,28879806220,115,ZMB
+Guinea,country,28346024753,116,GIN
+Malta,country,27771821561,117,MLT
+Burkina Faso,country,27627297461,118,BFA
+Guyana,country,27097477218,119,GUY
+Trinidad and Tobago,country,25942749718,120,TTO
+Mongolia,country,25369107325,121,MNG
+Benin,country,24566420904,122,BEN
+Jamaica,country,22704903218,123,JAM
+Kyrgyz Republic,country,22623752095,124,KGZ
+Mozambique,country,22337997046,125,MOZ
+Nicaragua,country,22237167113,126,NIC
+Niger,country,21646191388,127,NER
+Chad,country,21472835225,128,TCD
+Gabon,country,21427119323,129,GAB
+Moldova,country,20351796275,130,MDA
+Botswana,country,19928479839,131,BWA
+Madagascar,country,19620352036,132,MDG
+North Macedonia,country,19101199817,133,MKD
+Lao PDR,country,18302970219,134,LAO
+Tajikistan,country,17660626562,135,TJK
+West Bank and Gaza,country,17167100000,136,PSE
+Rwanda,country,16372132990,137,RWA
+"Congo, Rep.",country,16306633779,138,COG
+Mauritius,country,16157804492,139,MUS
+Namibia,country,15080340654,140,NAM
+Brunei Darussalam,country,15031980994,141,BRN
+Malawi,country,14918276698,142,MWI
+"Somalia, Fed. Rep.",country,12995200000,143,SOM
+Equatorial Guinea,country,12823210426,144,GNQ
+Kosovo,country,12456403307,145,XKX
+Togo,country,11889949067,146,TGO
+Mauritania,country,11679910946,147,MRT
+Montenegro,country,9232801465,148,MNE
+Barbados,country,8016550000,149,BRB
+Maldives,country,7741066861,150,MDV
+Sierra Leone,country,7464157904,151,SLE
+Fiji,country,6198013062,152,FJI
+Liberia,country,5245938900,153,LBR
+Eswatini,country,5160679613,154,SWZ
+Djibouti,country,4624533092,155,DJI
+Suriname,country,4523657797,156,SUR
+Andorra,country,4500982732,157,AND
+Bhutan,country,3579320145,158,BTN
+Burundi,country,3364713864,159,BDI
+Belize,country,3326500000,160,BLZ
+Central African Republic,country,3066109226,161,CAF
+Cabo Verde,country,3056630435,162,CPV
+St. Lucia,country,2656444444,163,LCA
+"Gambia, The",country,2593673988,164,GMB
+Lesotho,country,2573572920,165,LSO
+Guinea-Bissau,country,2527930273,166,GNB
+Seychelles,country,2387022853,167,SYC
+Antigua and Barbuda,country,2338196296,168,ATG
+Timor-Leste,country,1902180258,169,TLS
+Sint Maarten (Dutch part),country,1887728480,170,SXM
+Comoros,country,1814920856,171,COM
+Solomon Islands,country,1749572443,172,SLB
+Grenada,country,1420173229,173,GRD
+Vanuatu,country,1353658841,174,VUT
+Samoa,country,1287936622,175,WSM
+St. Vincent and the Grenadines,country,1255222222,176,VCT
+St. Kitts and Nevis,country,1183514815,177,KNA
+Sao Tome and Principe,country,981293587,178,STP
+Dominica,country,723859259,179,DMA
+Tonga,country,679218219,180,TON
+"Micronesia, Fed. Sts.",country,501797600,181,FSM
+Kiribati,country,349227254,182,KIR
+Palau,country,345000000,183,PLW
+Marshall Islands,country,308000000,184,MHL
+Naoero,country,176040044,185,NRU
+Tuvalu,country,57345435,186,TUV
